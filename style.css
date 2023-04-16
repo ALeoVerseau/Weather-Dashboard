@@ -3,7 +3,9 @@
     font-size: 23px;
 }
 
-
+.card-header {
+    background-color: rgba(162, 106, 57, 0.842)
+}
 
 .container-fluid {
     background-color: rgba(162, 106, 57, 0.842);
